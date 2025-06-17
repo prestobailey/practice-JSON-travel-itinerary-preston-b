@@ -1,0 +1,42 @@
+{
+  "tripName": "Missouri Journey 2025",
+  "traveler": {
+    "name": "Preston Bailey",
+    "contact": {
+      "email": "preston.bailey@example.com",
+      "phone": "+1-234-567-8901"
+    }
+  },
+  "destinations": [
+    {
+      "location": "St. Louis, MO",
+      "arrivalDate": "2025-06-18",
+      "departureDate": "2025-06-20",
+      "activities": [
+        {
+          "title": "Charlie Gitto's",
+          "time": "7:00 PM"
+        },
+        {
+          "title": "St. Louis Arch",
+          "time": "9:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Springfield, MO",
+      "arrivalDate": "2025-06-21",
+      "departureDate": "2025-06-24",
+      "activities": [
+        {
+          "title": "Giant Fork",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Bass Pro Headquarters",
+          "time": "2:00 PM"
+        }
+      ]
+    }
+  ]
+}
